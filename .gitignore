@@ -1,0 +1,17 @@
+node_modules/
+generated_modules/
+coverage/
+src/mocks/
+dist/
+lite-dist/
+admin-dist/
+npm-debug.log
+yarn-error.log
+!typings/*.d.ts
+.DS_Store
+jest.json
+.project
+.env
+.history
+.cache
+yarn.*
